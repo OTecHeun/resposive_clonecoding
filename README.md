@@ -1,6 +1,6 @@
 # [클론코딩] Resposive_clonecoding
 
-![kao_profile](https://user-images.githubusercontent.com/104907318/184522472-7d6eff4f-3f7a-49f2-8591-801c6eb7a964.png)
+![반응형](https://user-images.githubusercontent.com/104907318/184522867-5b1399ca-4422-47fa-9997-62a2980e0557.png)
 
 **요약** :
 
